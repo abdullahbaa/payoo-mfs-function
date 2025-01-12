@@ -10,3 +10,6 @@ function getTextFieldValueById(id){
     const textNumber = parseFloat(textValue);
     return textNumber;
 }
+function showSectionById(id){
+
+}
